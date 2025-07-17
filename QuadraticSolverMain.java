@@ -1,7 +1,11 @@
 
 /**
  * Write a program that calculates the real roots of a quadratic polynomial
- * in the form ax^2 + bx + c = 0. Prompt the user for input.
+ * in the form ax^2 + bx + c = 0 and rounds to ONE decimal place.
+ * You may only use arithemetic operations and type casting for the rounding.
+ * You may NOT use any rounding function, such as Math.random() nor 
+ * String.format() nor the BigDecimal class, for example. 
+ * Prompt the user for input.
  * 
  * For example, a possible sample dialogue might be the following:
  * Enter coefficients for the quadratic ax^2 + bx + c = 0.
