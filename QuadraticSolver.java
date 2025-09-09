@@ -13,8 +13,8 @@ public class QuadraticSolver {
      * (where r1 >= r2)
      * Round the roots to one decimal place.
      * You may only use arithemetic operations and type casting for the rounding.
-     * You may NOT use any rounding function, such as Math.round() nor 
-     * String.format() nor the BigDecimal class, for example. 
+     * You may NOT use any rounding function, such as Math.round() or 
+     * String.format() or the BigDecimal class.
      * HINT: For example, if r1 = 3.1415 then r1 + 0.05 = 3.1915
      * Notice how the tenths place stays where it should.
      * If r1 = 3.1515 then r1 + 0.05 = 3.2015 and the tenths place
